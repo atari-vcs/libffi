@@ -1,3 +1,10 @@
+libffi (3.2.1-9co1) apertis; urgency=medium
+
+  [ Ritesh Raj Sarraf ]
+  * debian/apertis/component: Set to target
+
+ -- Emanuele Aina <emanuele.aina@collabora.com>  Sat, 20 Feb 2021 00:56:01 +0000
+
 libffi (3.2.1-9) unstable; urgency=medium
 
   * Add home page attribute to the control file. Closes: #816317.
