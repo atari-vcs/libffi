@@ -1,3 +1,9 @@
+libffi (3.3-6apertis0vcs0) vcs; urgency=medium
+
+  * Build for atari vcs project
+
+ -- Christopher Obbard <chris.obbard@collabora.com>  Fri, 14 May 2021 09:32:39 +0100
+
 libffi (3.3-6apertis0) apertis; urgency=medium
 
   * Sync from Debian debian/bullseye.
